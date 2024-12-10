@@ -12,4 +12,6 @@ Projeto Dio - criação de ataque fishing
 - URL para clone: http://www.facebook.com
 
 
+RESULTADO:
+
 ![passwd](https://github.com/user-attachments/assets/76632fe4-1a7a-4405-a57a-eef00a6890b1)
